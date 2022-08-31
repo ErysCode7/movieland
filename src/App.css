@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: #131519;
+  font-size: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+a,
+a::before,
+a::after {
+  text-decoration: none;
+  color: unset;
+}
