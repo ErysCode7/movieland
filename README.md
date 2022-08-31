@@ -13,13 +13,12 @@
 
 ### Screenshot
 
-![](./screenshots/sc.jpg)
-![](./screenshots/sc1.jpg)
+![](./Capture.JPG)
 
 ### Links
 
-- Solution URL: [https://github.com/ErysCode7/cocktails](https://github.com/ErysCode7/cocktails)
-- Live Site URL: [https://cocktails-omega.vercel.app/](https://cocktails-omega.vercel.app/)
+- Solution URL: [https://github.com/ErysCode7/movieland](https://github.com/ErysCode7/movieland
+- Live Site URL: [https://movieland-beta.vercel.app/](https://movieland-beta.vercel.app/)
 
 1. Clone the repo
 
@@ -44,12 +43,11 @@
 ### Built with
 
 - React
-- Material UI Design
+- Tailwind CSS
 - Axios
-- SASS
 - Context API
 - React Router
-- Cocktails API
+- OMDB API
 
 ## Author
 

@@ -14,7 +14,7 @@ interface Props {
   // any props that come into the component
 }
 
-const API_URL = "http://www.omdbapi.com?apikey=f690204a";
+const API_URL = "https://www.omdbapi.com?apikey=f690204a";
 
 export const AppContextProvider: React.FC<Props> = ({ children }) => {
   const [movies, setMovies] = useState<String[]>([]);
